@@ -19,6 +19,10 @@ None. Just followed class' examples and w3school site for guide.
 ## Feedback
 I gave feedback to:
 
+Sunhwa Cheon https://github.com/Stellach90/cheon-sunhwa-article;
+Mary Mehrnoush https://github.com/mehrnoush68/mohammadi-mehrnoush-a2;
+Kush Bhatija https://github.com/kushbhatija/bhatija_kush_a2_part-b;
+
 ## Styling Guide
 
 ### Colours
