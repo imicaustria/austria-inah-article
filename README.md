@@ -1,31 +1,34 @@
 # austria-inah-article
+S19 - INFORMATION ARCHITECTURE 2 CRN-81540-201803-July
 
-blogpost-assignment
+# Article Styling
 
-Article Styling
-
+```
 Deliverable:  Assignment 2, Part B
 Name:         Inah Austria
 Student #:    101114156
-Email:        101114156@georgebrown.ca
+Email:        inahcarla.austria@georgebrown.ca
 Submitted:    July 5, 2019
-Notes:        Hola amigos and amigas!
- I have reviewed the appropriate checklist before submitting this work
-Works Cited
-None. Just used the class' examples and w3school sites for guides.
+Notes:        Hola!
+```
+- [X] I have reviewed the appropriate checklist before submitting this work
 
-Feedback
-I gave feedback to (then list the projects/repositories, for example...):
+## Works Cited
+None. Just followed class' examples and w3school site for guide.
 
-https://github.com/gb-idd-18/example-article-styling
-Styling Guide
-Colours
-#eddbd6
-#000000
-#FFFFFF
-#d3d3d3
-#ead6e4
+## Feedback
+I gave feedback to:
 
-Fonts
-('https://fonts.googleapis.com/css?family=Martel+Sans&display=swap');
-('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+## Styling Guide
+
+### Colours
+ #eddbd6
+ #000000
+ #FFFFFF
+ #d3d3d3
+ #ead6e4
+
+
+### Fonts
+https://fonts.googleapis.com/css?family=Martel+Sans&display=swap
+https://fonts.googleapis.com/css?family=Open+Sans&display=swap
