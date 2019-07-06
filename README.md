@@ -22,11 +22,11 @@ I gave feedback to:
 ## Styling Guide
 
 ### Colours
- #eddbd6
- #000000
- #FFFFFF
- #d3d3d3
- #ead6e4
+ #eddbd6;
+ #000000;
+ #FFFFFF;
+ #d3d3d3;
+ #ead6e4;
 
 
 ### Fonts
