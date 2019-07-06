@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Martel+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+:root {
+/*COLORS*/
+  --back: #eddbd6;
+  --fore: #000000;
+  --light: #FFFFFF;
+  --darker: #d3d3d3;
+  --pop: #ead6e4;
+/*FONTS*/
+    --title: 'Martel Sans';
+    --sub: 'Open Sans';
+
+}
+body {
+  background-color: var(--back);
+  color: var(--font);
+  text-align: center;
+  font-family: var(--sub);
+  font-style: italic;
+  font-stretch: expanded;
+}
+.site-header {
+  background-color: var(--darker);
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.title, .sub, .text {
+  font-family: var(--title);
+  font-style: normal;
+}
+.author {
+  margin-top: 1em;
+}
+.main-menu li {
+  padding: 3em;
+  display: inline;
+  text-align: right;
+  font-family: var(--sub);
+  font-weight: bold;
+}
+blockquote {
+  font-family: var(--title);
+  font-weight: bold ;
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+.p1 {
+  margin-left: 10rem;
+  margin-right: 10rem;
+  margin-bottom: 2em;
+  margin-top: 5em;
+}
+.p21 {
+  max-width: 400px;
+  max-height: 400px;
+}
+.p22 {
+  max-width: 400px;
+  max-height: 400px;
+}
+.p23 {
+  max-width: 500px;
+  max-height: 500px;
+}
+.p24{
+  max-width: 500px;
+  max-height: 500px;
+}
+.p1, .landf, .options, .ohjenny, .ohkristen, .con, .intro {
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+.bo-on {
+  font-family: var(--title);
+}
+a {
+  color: var(--fore);
+}
+a:hover {
+  color: var(--light);
+}
+hr {
+  border-top: 5px dotted var(--fore);
+  width: 20em;
+} 
+textarea {
+  width: 250px;
+  height: 100px;
+  margin-bottom: 5rem;
+}
+img {
+  border-radius: 10%;
+}
+.site-footer {
+  padding-top: 2em;  
+  background-color: var(--darker);
+}
